@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-groq
+langgraph
+langchain-mcp-adapters
+mcp
+gitpython
+streamlit
+pydantic>=2
+python-dotenv
+pytest

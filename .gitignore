@@ -1,0 +1,17 @@
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Cloned repositories the agent downloads (never commit these)
+workspace/
+
+# macOS / editor
+.DS_Store
+.vscode/
+.idea/
